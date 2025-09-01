@@ -14,6 +14,7 @@
 
 ---
 ⚡ My Toolkit:
+**Languages**
  ![Python](https://img.shields.io/badge/Python-ADD8E6?style=for-the-badge&logo=python&logoColor=white)  
 ![C](https://img.shields.io/badge/C-87CEEB?style=for-the-badge&logo=c&logoColor=white)  
 ![C++](https://img.shields.io/badge/C++-4682B4?style=for-the-badge&logo=cplusplus&logoColor=white)  
